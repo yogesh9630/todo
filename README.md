@@ -1,2 +1,2 @@
 # todo
-thank for giving me chance.
+thanks for giving me chance.
