@@ -21,6 +21,7 @@
     <a href="display1.php" class="text-white text-decration-none"><h1>View Todos</h1></a>
     </div>
     </div>
+            
     
 
     </div>
